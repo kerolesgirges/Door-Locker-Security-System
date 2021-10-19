@@ -6,4 +6,4 @@ the second ECU called control ECU which is responsible for the
 system operations and control. In the project I implemented
 the following drivers Keypad, LCD, DC Motor, UART, Timer, I2C
 and External EEPROM
-![](Screenshot 2021-10-18 233103.jpg)
+![](Screenshot.jpg)
